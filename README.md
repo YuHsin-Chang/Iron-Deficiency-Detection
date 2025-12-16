@@ -51,6 +51,12 @@ If you use this codebase in your research, please cite or acknowledge the reposi
 
 > Chang Y-H. *Iron-Deficiency-Detection* GitHub, 2025. https://github.com/YuHsin-Chang/Iron-Deficiency-Detection
 
+### 📃 Publication
+
+Machine Learning for Detecting Iron Deficiency through Comprehensive Blood Analysis
+Y.-H. Chang, C.-Y. Chen, C.-T. Hsiao, Y.-C. Chang, H.-Y. Lai, H.-H. Lin, et al.
+Clinical Chemistry 2025 Vol. 71 Issue 9 Pages 949-961
+
 ## License
 
 This project is licensed under the Apache License. See the [LICENSE](./LICENSE) file for details.
